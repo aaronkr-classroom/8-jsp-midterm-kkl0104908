@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
 <!-- UT-NodeJS 중간고사 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +11,7 @@
     <meta name="author" content="???" />
     <meta name="description" content="???" />
 
-    <!-- CSS 파일에 대한 link테그를 수정하십시오 -->
+    <!-- CSS 파일에 대한 link태그를 수정하십시오 -->
     <link rel="stylesheet" href="../public/css/style.css" />
     <link
       rel="stylesheet"
@@ -20,7 +21,7 @@
     <link href="../public/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../public/css/confetti.css" />
 
-    <!-- JS 파일에 대한 script테그를 수정하십시오 -->
+    <!-- JS 파일에 대한 script태그를 수정하십시오 -->
     <script defer src="../public/js/functions.js"></script>
   </head>
 
@@ -78,6 +79,7 @@
       </div>
 
       <div class="wrapper">
+        <!-- Confetti -->
         <div class="confetti-149"></div>
         <div class="confetti-148"></div>
         <div class="confetti-147"></div>
